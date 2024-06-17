@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practkotln10</string>
+    <string name="yournote">Напишите здесь заметку</string>
+    <string name="nextTip">Другая заметка</string>
+</resources>
